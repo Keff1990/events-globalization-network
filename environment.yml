@@ -1,0 +1,14 @@
+name: eventsnetwork
+channels:
+  - conda-forge
+  - defaults
+  - ostrokach-forge
+  - pkgw-forge
+dependencies:
+  - pandas==1.2.4
+  - matplotlib==3.4.1
+  - pip
+  - jupyter
+  - networkx==2.5.1
+  - scikit-learn==0.24.1
+prefix: /Users/Jeff/anaconda3/anaconda3/envs/eventsnetwork

@@ -1,0 +1,209 @@
+flattened_themes_2,category
+DEATH_PENALTY,Law
+TRIAL,Law
+PROPERTY_RIGHTS,Law
+FOOD_SECURITY,Food
+FOOD_STAPLE,Food
+CRIME_CARTELS,Crime
+CRIME_COMMON_ROBBERY,Crime
+CRIME_ILLEGAL_DRUGS,Crime
+DRUG_TRADE,Crime
+ORGANIZED_CRIME,Crime
+PIRACY,Crime
+SMUGGLING,Crime
+TREASON,Crime
+RAPE,Crime
+MEDIA_CENSORSHIP,Media
+MEDIA_MSM,Media
+MEDIA_SOCIAL,Media
+SUICIDE_ATTACK,Crisis
+SHORTAGE,Crisis
+REBELLION,Crisis
+HEALTH_PANDEMIC,Health
+HEALTH_SEXTRANSDISEASE,Health
+HEALTH_VACCINATION,Health
+GENERAL_HEALTH,Health
+MEDICAL,Health
+MEDICAL_SECURITY,Health
+UNREST_CHECKPOINT,Unrest
+UNREST_CLOSINGBORDER,Unrest
+UNREST_HUNGERSTRIKE,Unrest
+UNREST_MOLOTOVCOCKTAIL,Unrest
+UNREST_POLICEBRUTALITY,Unrest
+UNREST_STONETHROWING,Unrest
+UNREST_STONING,Unrest
+UNSAFE_WORK_ENVIRONMENT,Unrest
+LANDMINE,Military
+BLOCKADE,Military
+CEASEFIRE,Military
+CHECKPOINT,Military
+MIL_SELF_IDENTIFIED_ARMS_DEAL,Military
+MIL_WEAPONS_PROLIFERATION,Military
+MILITARY,Military
+MILITARY_COOPERATION,Military
+REBELS,Military
+SEIGE,Military
+SLFID_MILITARY_BUILDUP,Military
+SLFID_MILITARY_READINESS,Military
+SLFID_MILITARY_SPENDING,Military
+SURVEILLANCE,Military
+ARMEDCONFLICT,Military
+WMD,Military
+RELIGION,Religion
+HARASSMENT,Violence
+TERROR,Violence
+TORTURE,Violence
+ASSASSINATION,Violence
+FIREARM_OWNERSHIP,Violence
+RETALIATE,Violence
+VIOLENT_UNREST,Violence
+ROAD_INCIDENT,accident
+flattened_themes_2,category
+EDUCATION,Education
+CORRUPTION,Corruption
+CHARASMATIC_LEADERSHIP,Leadership
+DRONE,Technology
+INTERNET_BLACKOUT,Technology
+INTERNET_CENSORSHIP,Technology
+AGRICULTURE,Agriculture
+PERSECUTION,Social Issues
+FREESPEECH,Social Issues
+GRIEVANCES,Social Issues
+HATE_SPEECH,Social Issues
+HUMAN_TRAFFICKING,Social Issues
+BULLYING,Social Issues
+DISCRIMINATION,Social Issues
+GENDER_VIOLENCE,Social Issues
+INFRASTRUCTURE_BAD_ROADS,Infrastructure
+NEW_CONSTRUCTION,Infrastructure
+PHONE_OUTAGE,Infrastructure
+POWER_OUTAGE,Infrastructure
+PUBLIC_TRANSPORT,Infrastructure
+RAIL_INCIDENT,Infrastructure
+TRAFFIC,Infrastructure
+BLACK_MARKET,Economic Policy
+FUELPRICES,Economic Policy
+ECON_BANKRUPTCY,Economic Policy
+ECON_BOYCOTT,Economic Policy
+ECON_COST_OF_LIVING,Economic Policy
+ECON_CURRENCY_EXCHANGE_RATE,Economic Policy
+ECON_CURRENCY_RESERVES,Economic Policy
+ECON_CUTOUTLOOK,Economic Policy
+ECON_DEBT,Economic Policy
+ECON_DEREGULATION,Economic Policy
+ECON_EARNINGSREPORT,Economic Policy
+ECON_ENTREPRENEURSHIP,Economic Policy
+ECON_FOREIGNINVEST,Economic Policy
+ECON_FREETRADE,Economic Policy
+ECON_HOUSING_PRICES,Economic Policy
+ECON_INFORMAL_ECONOMY,Economic Policy
+ECON_INTEREST_RATES,Economic Policy
+ECON_IPO,Economic Policy
+ECON_MONOPOLY,Economic Policy
+ECON_MOU,Economic Policy
+ECON_NATIONALIZE,Economic Policy
+ECON_PRICECONTROL,Economic Policy
+ECON_REMITTANCE,Economic Policy
+ECON_STOCKMARKET,Economic Policy
+ECON_SUBSIDIES,Economic Policy
+ECON_TAXATION,Economic Policy
+ECON_TRADE_DISPUTE,Economic Policy
+ECON_UNIONS,Economic Policy
+TOURISM,Economic Policy
+BAN,Economic Policy
+BORDER,Economic Policy
+PRIVATIZATION,Economic Policy
+SANCTIONS,Economic Policy
+SLFID_ECONOMIC_DEVELOPMENT,Economic Policy
+SLFID_ECONOMIC_POWER,Economic Policy
+SOC_ECONCOOP,Economic Policy
+UNEMPLOYMENT,Economic Policy
+STATE_OF_EMERGENCY,Government and Politics
+STRIKE,Government and Politics
+TAKE_OFFICE,Government and Politics
+IMMIGRATION,Government and Politics
+RELATIONS,Government and Politics
+ALLIANCE,Government and Politics
+CONSTITUTIONAL,Government and Politics
+DEFECTION,Government and Politics
+DEMOCRACY,Government and Politics
+ELECTION,Government and Politics
+ELECTION_FRAUD,Government and Politics
+EXTREMISM,Government and Politics
+GENERAL_GOVERNMENT,Government and Politics
+GOV_DISSOLVEGOV,Government and Politics
+GOV_DIVISIONOFPOWER,Government and Politics
+GOV_INTERGOVERNMENTAL,Government and Politics
+GOV_REFORM,Government and Politics
+GOV_REPATRIATION,Government and Politics
+IMPEACHMENT,Government and Politics
+LEGALIZE,Government and Politics
+LEGISLATION,Government and Politics
+PEACEKEEPING,Government and Politics
+POL_HOSTVISIT,Government and Politics
+POLITICAL_PRISONER,Government and Politics
+POLITICAL_TURMOIL,Government and Politics
+PROPAGANDA,Government and Politics
+RATIFY,Government and Politics
+SLFID_DICTATORSHIP,Government and Politics
+SLFID_PEACE_BUILDING,Government and Politics
+SLFID_POLITICAL_BOUNDARIES,Government and Politics
+SLFID_RULE_OF_LAW,Government and Politics
+SOC_DIPLOMCOOP,Government and Politics
+SOVEREIGNTY,Government and Politics
+VETO,Government and Politics
+RURAL,Urban and Rural Development
+URBAN,Urban and Rural Development
+URBAN_SPRAWL,Urban and Rural Development
+DISABILITY,Social Development and Protection
+ETH_INDIGINOUS,Social Development and Protection
+GENTRIFICATION,Social Development and Protection
+LGBT,Social Development and Protection
+LITERACY,Social Development and Protection
+MOVEMENT_GENERAL,Social Development and Protection
+MOVEMENT_OTHER,Social Development and Protection
+MOVEMENT_SOCIAL,Social Development and Protection
+MOVEMENT_WOMENS,Social Development and Protection
+POVERTY,Social Development and Protection
+RETIREMENT,Social Development and Protection
+SLUMS,Social Development and Protection
+SOC_EXPRESSREGRET,Social Development and Protection
+SOC_EXPRESSSUPPORT,Social Development and Protection
+SOC_FORCEDRELOCATION,Social Development and Protection
+SOC_GENERALCRIME,Social Development and Protection
+SOC_INTELSHARING,Social Development and Protection
+SOC_JUDICIALCOOP,Social Development and Protection
+SOC_MASSMIGRATION,Social Development and Protection
+SOC_PARDON,Social Development and Protection
+SOC_SUICIDE,Social Development and Protection
+SOC_SUSPICIOUSACTIVITIES,Social Development and Protection
+SOC_SUSPICIOUSPEOPLE,Social Development and Protection
+SOC_TRAFFICACCIDENT,Social Development and Protection
+VANDALIZE,Social Development and Protection
+WATER_SECURITY,Environment and Natural Resource Management
+ENV_BIOFUEL,Environment and Natural Resource Management
+ENV_CARBONCAPTURE,Environment and Natural Resource Management
+ENV_CLIMATECHANGE,Environment and Natural Resource Management
+ENV_COAL,Environment and Natural Resource Management
+ENV_DEFORESTATION,Environment and Natural Resource Management
+ENV_FISHERY,Environment and Natural Resource Management
+ENV_FORESTRY,Environment and Natural Resource Management
+ENV_GEOTHERMAL,Environment and Natural Resource Management
+ENV_GREEN,Environment and Natural Resource Management
+ENV_HYDRO,Environment and Natural Resource Management
+ENV_METALS,Environment and Natural Resource Management
+ENV_MINING,Environment and Natural Resource Management
+ENV_NATURALGAS,Environment and Natural Resource Management
+ENV_NUCLEARPOWER,Environment and Natural Resource Management
+ENV_OIL,Environment and Natural Resource Management
+ENV_OVERFISH,Environment and Natural Resource Management
+ENV_POACHING,Environment and Natural Resource Management
+ENV_SOLAR,Environment and Natural Resource Management
+ENV_SPECIESENDANGERED,Environment and Natural Resource Management
+ENV_SPECIESEXTINCT,Environment and Natural Resource Management
+ENV_WATERWAYS,Environment and Natural Resource Management
+ENV_WINDPOWER,Environment and Natural Resource Management
+MOVEMENT_ENVIRONMENTAL,Environment and Natural Resource Management
+NATURAL_DISASTER,Environment and Natural Resource Management
+SLFID_MINERAL_RESOURCES,Environment and Natural Resource Management
+SLFID_NATURAL_RESOURCES,Environment and Natural Resource Management
